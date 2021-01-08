@@ -3,6 +3,7 @@ I'm a Junior Computer Science Major at the University of Notre Dame seeking a So
 
 ### Connect with me:
 [<img align="left" alt="jhracho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jhracho | Handshake" width="22px" src="https://media-exp1.licdn.com/dms/image/C560BAQFFpUCc7M011A/company-logo_200_200/0/1596048238152?e=1618444800&v=beta&t=gUQ3fWSrxCpt439Qvo49u9082iTS24iYpmsJBOSd9IM" />][handshake]
 <br />
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
@@ -21,3 +22,4 @@ I'm a Junior Computer Science Major at the University of Notre Dame seeking a So
 
 
 [linkedin]: https://www.linkedin.com/in/jake-hracho-61a394181
+[handshake]: https://nd.joinhandshake.com/users/20129637
