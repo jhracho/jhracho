@@ -9,7 +9,6 @@ I'm a Junior Computer Science Major at the University of Notre Dame seeking a So
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"/>
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>
 <img align="left" alt="PHP" width="30px" bottom="100px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"/>
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
