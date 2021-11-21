@@ -1,4 +1,4 @@
-### Hey there, I'm Jake 👋
+### Hey there, I'm Jake <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm a Senior Computer Science Major at the University of Notre Dame!
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
