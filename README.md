@@ -21,7 +21,8 @@ I'm a Senior Computer Science Major at the University of Notre Dame!
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"/>
 <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"/>
 
-
+<br></br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jhracho&show_icons=true&theme=gotham" alt="jhracho" />
 
 [linkedin]: https://www.linkedin.com/in/jake-hracho-61a394181
 [handshake]: https://nd.joinhandshake.com/users/20129637
