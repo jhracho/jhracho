@@ -8,18 +8,8 @@ I'm a Senior Computer Science Major at the University of Notre Dame!
 [<img align="left" alt="jhracho | Handshake" width="22px" src="https://www.brandeis.edu/hiatt/_images/new-handshake-logo.png" />][handshake]
 <br />
 ### Things I've Worked With:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>
-<img align="left" alt="PHP" width="30px" bottom="100px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>
-<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"/>
-<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"/>
-<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"/>
-<img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"/>
+<img align="left" alt="Icons" width='700px' src="https://skillicons.dev/icons?i=python,react,aws,mysql,ts,html,sass,js,nginx,ps,php,c,cpp,powershell,vscode" />
+
 
 <br></br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jhracho&show_icons=true&theme=gotham" alt="jhracho" />
