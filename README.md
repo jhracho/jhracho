@@ -7,6 +7,7 @@ I'm a Software Developer with the Tech Academy at Balyasny Asset Management!
 [<img align="left" alt="Icons" width='40px' src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
 
 <br />
+
 ### Things I've Worked With:
 <img align="left" alt="Icons" width='700px' src="https://skillicons.dev/icons?i=python,react,aws,mysql,ts,html,sass,js,redux,ps,php,c,cpp,powershell,vscode" />
 
